@@ -1,6 +1,6 @@
 # SpellCheckerHash
   
-### English
+### [English]
 
 A program made in C, that compares words already stored in a Hash Table.
 
